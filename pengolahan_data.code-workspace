@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../Login_Screen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Login_Screen"
+	}
+}
